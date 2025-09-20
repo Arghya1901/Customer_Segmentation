@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CustomerSegmentation.jpg" alt="Customer Segmentation Output" width="600"/>
+  <img src="CustomerSegmentation.png" alt="Customer Segmentation Output" width="600"/>
 </p>
 
 # 🛍️ **CUSTOMER SEGMENTATION**
